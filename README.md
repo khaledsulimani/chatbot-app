@@ -208,4 +208,10 @@ If you have any questions or need help with the project:
 
 ---
 
+## 🧑‍💻 Author
+- **khaled mahmoud sulaimani** – [@khaledsulimani](https://github.com/khaledsulimani)
+
+---
+
 **Made with ❤️ using Flutter**
+
